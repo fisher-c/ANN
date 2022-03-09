@@ -3,7 +3,6 @@
 * README
 * HW6: Artificial Neural Networks
 * Comp 131 AI
-* Carina Ye
 * Dec 17, 2021
 *********************************************************/
 
